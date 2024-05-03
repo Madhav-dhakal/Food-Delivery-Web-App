@@ -21,7 +21,7 @@
 - [x] Update Header.js
 - [x] Update header.module.css
 
-## 4. Adding Thumbnails
+## 4. Adding Thumbnails.
 
 - [x] Add HomePage component
 - [x] Add AppRoutes component
